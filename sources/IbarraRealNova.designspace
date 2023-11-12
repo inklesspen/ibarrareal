@@ -17,7 +17,7 @@
     </axis>
   </axes>
   <sources>
-    <source filename="IbarraRealNova-Regular.ufo" name="Ibarra Real Nova Regular" familyname="Ibarra Real Nova" stylename="Regular">
+    <source filename="IbarraRealNova-Regular.ufo" name="Ibarra Real Nova Straylight Regular" familyname="Ibarra Real Nova Straylight" stylename="Regular">
       <lib copy="1"/>
       <groups copy="1"/>
       <features copy="1"/>
@@ -27,19 +27,19 @@
         <dimension name="Italic" xvalue="0"/>
       </location>
     </source>
-    <source filename="IbarraRealNova-Bold.ufo" name="Ibarra Real Nova Bold" familyname="Ibarra Real Nova" stylename="Bold">
+    <source filename="IbarraRealNova-Bold.ufo" name="Ibarra Real Nova Straylight Bold" familyname="Ibarra Real Nova Straylight" stylename="Bold">
       <location>
         <dimension name="Weight" xvalue="700"/>
         <dimension name="Italic" xvalue="0"/>
       </location>
     </source>
-    <source filename="IbarraRealNova-Italic.ufo" name="Ibarra Real Nova Italic" familyname="Ibarra Real Nova" stylename="Italic">
+    <source filename="IbarraRealNova-Italic.ufo" name="Ibarra Real Nova Straylight Italic" familyname="Ibarra Real Nova Straylight" stylename="Italic">
       <location>
         <dimension name="Weight" xvalue="400"/>
         <dimension name="Italic" xvalue="1"/>
       </location>
     </source>
-    <source filename="IbarraRealNova-BoldItalic.ufo" name="Ibarra Real Nova Bold Italic" familyname="Ibarra Real Nova" stylename="Bold Italic">
+    <source filename="IbarraRealNova-BoldItalic.ufo" name="Ibarra Real Nova Straylight Bold Italic" familyname="Ibarra Real Nova Straylight" stylename="Bold Italic">
       <location>
         <dimension name="Weight" xvalue="700"/>
         <dimension name="Italic" xvalue="1"/>
@@ -47,13 +47,13 @@
     </source>
   </sources>
   <variable-fonts>
-    <variable-font name="IbarraRealNova[wght]">
+    <variable-font name="IbarraRealNovaStraylight[wght]">
       <axis-subsets>
         <axis-subset name="Weight"/>
         <axis-subset name="Italic" uservalue="0"/>
       </axis-subsets>
     </variable-font>
-    <variable-font name="IbarraRealNova-Italic[wght]">
+    <variable-font name="IbarraRealNovaStraylight-Italic[wght]">
       <axis-subsets>
         <axis-subset name="Weight"/>
         <axis-subset name="Italic" uservalue="1"/>
@@ -61,37 +61,37 @@
     </variable-font>
   </variable-fonts>
   <instances>
-    <instance name="Ibarra Real Nova Regular" familyname="Ibarra Real Nova" stylename="Regular" filename="instance_ufos/IbarraRealNova-Regular.ufo" postscriptfontname="IbarraRealNova-Regular" stylemapfamilyname="Ibarra Real Nova" stylemapstylename="regular">
+    <instance name="Ibarra Real Nova Straylight Regular" familyname="Ibarra Real Nova Straylight" stylename="Regular" filename="instance_ufos/IbarraRealNovaStraylight-Regular.ufo" postscriptfontname="IbarraRealNovaStraylight-Regular" stylemapfamilyname="Ibarra Real Nova Straylight" stylemapstylename="regular">
       <location>
         <dimension name="Weight" xvalue="400"/>
         <dimension name="Italic" xvalue="0"/>
       </location>
     </instance>
-    <instance name="Ibarra Real Nova SemiBold" familyname="Ibarra Real Nova" stylename="SemiBold" filename="instance_ufos/IbarraRealNova-SemiBold.ufo" postscriptfontname="IbarraRealNova-SemiBold" stylemapfamilyname="Ibarra Real Nova" stylemapstylename="semibold">
+    <instance name="Ibarra Real Nova Straylight SemiBold" familyname="Ibarra Real Nova Straylight" stylename="SemiBold" filename="instance_ufos/IbarraRealNovaStraylight-SemiBold.ufo" postscriptfontname="IbarraRealNovaStraylight-SemiBold" stylemapfamilyname="Ibarra Real Nova Straylight" stylemapstylename="semibold">
       <location>
         <dimension name="Weight" xvalue="600"/>
         <dimension name="Italic" xvalue="0"/>
       </location>
     </instance>
-    <instance name="Ibarra Real Nova Bold" familyname="Ibarra Real Nova" stylename="Bold" filename="instance_ufos/IbarraRealNova-Bold.ufo" postscriptfontname="IbarraRealNova-Bold" stylemapfamilyname="Ibarra Real Nova" stylemapstylename="bold">
+    <instance name="Ibarra Real Nova Straylight Bold" familyname="Ibarra Real Nova Straylight" stylename="Bold" filename="instance_ufos/IbarraRealNovaStraylight-Bold.ufo" postscriptfontname="IbarraRealNovaStraylight-Bold" stylemapfamilyname="Ibarra Real Nova Straylight" stylemapstylename="bold">
       <location>
         <dimension name="Weight" xvalue="700"/>
         <dimension name="Italic" xvalue="0"/>
       </location>
     </instance>
-    <instance name="Ibarra Real Nova Italic" familyname="Ibarra Real Nova" stylename="Italic" filename="instance_ufos/IbarraRealNova-Italic.ufo" postscriptfontname="IbarraRealNova-Italic" stylemapfamilyname="Ibarra Real Nova" stylemapstylename="italic">
+    <instance name="Ibarra Real Nova Straylight Italic" familyname="Ibarra Real Nova Straylight" stylename="Italic" filename="instance_ufos/IbarraRealNovaStraylight-Italic.ufo" postscriptfontname="IbarraRealNovaStraylight-Italic" stylemapfamilyname="Ibarra Real Nova Straylight" stylemapstylename="italic">
       <location>
         <dimension name="Weight" xvalue="400"/>
         <dimension name="Italic" xvalue="1"/>
       </location>
     </instance>
-    <instance name="Ibarra Real Nova SemiBold Italic" familyname="Ibarra Real Nova" stylename="SemiBold Italic" filename="instance_ufos/IbarraRealNova-SemiBoldItalic.ufo" postscriptfontname="IbarraRealNova-SemiBoldItalic" stylemapfamilyname="Ibarra Real Nova" stylemapstylename="semibold italic">
+    <instance name="Ibarra Real Nova Straylight SemiBold Italic" familyname="Ibarra Real Nova Straylight" stylename="SemiBold Italic" filename="instance_ufos/IbarraRealNovaStraylight-SemiBoldItalic.ufo" postscriptfontname="IbarraRealNovaStraylight-SemiBoldItalic" stylemapfamilyname="Ibarra Real Nova Straylight" stylemapstylename="semibold italic">
       <location>
         <dimension name="Weight" xvalue="600"/>
         <dimension name="Italic" xvalue="1"/>
       </location>
     </instance>
-    <instance name="Ibarra Real Nova Bold Italic" familyname="Ibarra Real Nova" stylename="Bold Italic" filename="instance_ufos/IbarraRealNova-BoldItalic.ufo" postscriptfontname="IbarraRealNova-BoldItalic" stylemapfamilyname="Ibarra Real Nova" stylemapstylename="bold italic">
+    <instance name="Ibarra Real Nova Straylight Bold Italic" familyname="Ibarra Real Nova Straylight" stylename="Bold Italic" filename="instance_ufos/IbarraRealNovaStraylight-BoldItalic.ufo" postscriptfontname="IbarraRealNovaStraylight-BoldItalic" stylemapfamilyname="Ibarra Real Nova Straylight" stylemapstylename="bold italic">
       <location>
         <dimension name="Weight" xvalue="700"/>
         <dimension name="Italic" xvalue="1"/>

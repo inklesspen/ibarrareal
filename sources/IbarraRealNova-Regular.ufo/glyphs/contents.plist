@@ -84,6 +84,8 @@
     <string>H_.glif</string>
     <key>Hbar</key>
     <string>H_bar.glif</string>
+    <key>Hdotbelow</key>
+    <string>H_dotbelow.glif</string>
     <key>I</key>
     <string>I_.glif</string>
     <key>Iacute</key>
@@ -416,6 +418,8 @@
     <string>dotaccentcomb.glif</string>
     <key>dotaccentcomb.case</key>
     <string>dotaccentcomb.case.glif</string>
+    <key>dotbelowcomb</key>
+    <string>dotbelowcomb.glif</string>
     <key>e</key>
     <string>e.glif</string>
     <key>e.sc</key>
@@ -558,6 +562,10 @@
     <string>hbar.glif</string>
     <key>hbar.sc</key>
     <string>hbar.sc.glif</string>
+    <key>hdotbelow</key>
+    <string>hdotbelow.glif</string>
+    <key>hdotbelow.sc</key>
+    <string>hdotbelow.sc.glif</string>
     <key>hungarumlaut</key>
     <string>hungarumlaut.glif</string>
     <key>hungarumlautcomb</key>
@@ -958,6 +966,8 @@
     <string>umacron.sc.glif</string>
     <key>underscore</key>
     <string>underscore.glif</string>
+    <key>uni02BC</key>
+    <string>uni02B_C_.glif</string>
     <key>uni02C9</key>
     <string>uni02C_9.glif</string>
     <key>uni2219</key>

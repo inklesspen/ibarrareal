@@ -996,6 +996,7 @@ changes related to the enlargement of glyphs for Latin languages, legibility, sp
       <string>Gdotaccent</string>
       <string>H</string>
       <string>Hbar</string>
+      <string>Hdotbelow</string>
       <string>I</string>
       <string>Iacute</string>
       <string>Icircumflex</string>
@@ -1109,6 +1110,7 @@ changes related to the enlargement of glyphs for Latin languages, legibility, sp
       <string>gdotaccent</string>
       <string>h</string>
       <string>hbar</string>
+      <string>hdotbelow</string>
       <string>i</string>
       <string>idotless</string>
       <string>iacute</string>
@@ -1237,6 +1239,7 @@ changes related to the enlargement of glyphs for Latin languages, legibility, sp
       <string>gdotaccent.sc</string>
       <string>h.sc</string>
       <string>hbar.sc</string>
+      <string>hdotbelow.sc</string>
       <string>i.sc</string>
       <string>iacute.sc</string>
       <string>icircumflex.sc</string>
@@ -1385,6 +1388,7 @@ changes related to the enlargement of glyphs for Latin languages, legibility, sp
       <string>guilsinglright</string>
       <string>quotedbl</string>
       <string>quotesingle</string>
+      <string>uni02BC</string>
       <string>space</string>
       <string>nbspace</string>
       <string>CR</string>
@@ -1438,6 +1442,7 @@ changes related to the enlargement of glyphs for Latin languages, legibility, sp
       <string>uni02C9</string>
       <string>dieresiscomb</string>
       <string>dotaccentcomb</string>
+      <string>dotbelowcomb</string>
       <string>gravecomb</string>
       <string>acutecomb</string>
       <string>hungarumlautcomb</string>

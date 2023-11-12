@@ -1,3 +1,20 @@
+# Ibarra Real Nova Straylight
+
+This variation on Ibarra Real Nova adds a few glyphs, along with some OpenType features that are probably of negligible worth.
+
+## New glyphs
+
+* [`U+02BC`](https://unicode-explorer.com/c/02bc) — "modifier letter apostrope", as [championed by Ted Clancy](https://tedclancy.wordpress.com/2015/06/03/which-unicode-character-should-represent-the-english-apostrophe-and-why-the-unicode-committee-is-very-wrong/)
+* [`U+0323`](https://unicode-explorer.com/c/0323) — "combining dot below", used for various accented characters, such as:
+* [`U+1E24`](https://unicode-explorer.com/c/1E24) and [`U+1E25`](https://unicode-explorer.com/c/1E25), Ḥ and ḥ, commonly used when transliterating scriptural and liturgical Hebrew to represent the [voiceless uvular fricative](https://en.wikipedia.org/wiki/Voiceless_uvular_fricative) sound.
+
+## New Opentype features
+
+To be honest, these only exist because I thought it would be fun to learn how to make new features. I have added three ligature features using the `ss01` through `ss03` codes:
+* `ss01`: `.h` becomes `ḥ` and `.H` becomes `Ḥ`
+* `ss02`: `<"` becomes `“` and `>"` becomes `”`
+* `ss03`: `'` becomes `ʼ` (modifier letter apostrophe)
+
 # Ibarra Real Fonts
 
 ![sample](docs/sample.png)

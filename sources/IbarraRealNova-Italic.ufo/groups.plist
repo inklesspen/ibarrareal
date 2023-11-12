@@ -48,6 +48,7 @@
     <array>
       <string>H</string>
       <string>Hbar</string>
+      <string>Hdotbelow</string>
       <string>I</string>
       <string>Iacute</string>
       <string>Icircumflex</string>
@@ -308,6 +309,7 @@
     <array>
       <string>h.sc</string>
       <string>hbar.sc</string>
+      <string>hdotbelow.sc</string>
       <string>i.sc</string>
       <string>iacute.sc</string>
       <string>icircumflex.sc</string>
@@ -355,16 +357,17 @@
     </array>
     <key>public.kern1.n</key>
     <array>
+      <string>eng</string>
+      <string>f_h</string>
       <string>h</string>
       <string>hbar</string>
+      <string>hdotbelow</string>
       <string>m</string>
       <string>n</string>
       <string>nacute</string>
       <string>ncaron</string>
       <string>ncommaaccent</string>
-      <string>eng</string>
       <string>ntilde</string>
-      <string>f_h</string>
     </array>
     <key>public.kern1.n.sc</key>
     <array>
@@ -553,7 +556,6 @@
     <array>
       <string>B</string>
       <string>D</string>
-      <string>Eth</string>
       <string>Dcaron</string>
       <string>Dcroat</string>
       <string>E</string>
@@ -564,10 +566,13 @@
       <string>Edotaccent</string>
       <string>Egrave</string>
       <string>Emacron</string>
+      <string>Eng</string>
       <string>Eogonek</string>
+      <string>Eth</string>
       <string>F</string>
       <string>H</string>
       <string>Hbar</string>
+      <string>Hdotbelow</string>
       <string>I</string>
       <string>Iacute</string>
       <string>Icircumflex</string>
@@ -587,14 +592,13 @@
       <string>Nacute</string>
       <string>Ncaron</string>
       <string>Ncommaaccent</string>
-      <string>Eng</string>
       <string>Ntilde</string>
       <string>P</string>
-      <string>Thorn</string>
       <string>R</string>
       <string>Racute</string>
       <string>Rcaron</string>
       <string>Rcommaaccent</string>
+      <string>Thorn</string>
     </array>
     <key>public.kern2.J</key>
     <array>
@@ -786,6 +790,7 @@
     <array>
       <string>h</string>
       <string>hbar</string>
+      <string>hdotbelow</string>
       <string>k</string>
       <string>kcommaaccent</string>
       <string>thorn</string>
@@ -794,7 +799,6 @@
     <array>
       <string>b.sc</string>
       <string>d.sc</string>
-      <string>eth.sc</string>
       <string>dcaron.sc</string>
       <string>dcroat.sc</string>
       <string>e.sc</string>
@@ -805,10 +809,13 @@
       <string>edotaccent.sc</string>
       <string>egrave.sc</string>
       <string>emacron.sc</string>
+      <string>eng.sc</string>
       <string>eogonek.sc</string>
+      <string>eth.sc</string>
       <string>f.sc</string>
       <string>h.sc</string>
       <string>hbar.sc</string>
+      <string>hdotbelow.sc</string>
       <string>i.sc</string>
       <string>iacute.sc</string>
       <string>icircumflex.sc</string>
@@ -828,14 +835,13 @@
       <string>nacute.sc</string>
       <string>ncaron.sc</string>
       <string>ncommaaccent.sc</string>
-      <string>eng.sc</string>
       <string>ntilde.sc</string>
       <string>p.sc</string>
-      <string>thorn.sc</string>
       <string>r.sc</string>
       <string>racute.sc</string>
       <string>rcaron.sc</string>
       <string>rcommaaccent.sc</string>
+      <string>thorn.sc</string>
     </array>
     <key>public.kern2.hyphen</key>
     <array>
